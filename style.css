@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(100, 87, 87);
+}
+
+.picture_link {
+    margin-top: 10px;
+    text-align: center;
+    
+}
+
+header>img {
+    width: 330px;
+    border-radius: 40%;
+    border: 2px solid rgb(76, 4, 64);
+    box-shadow: 0px 0px 100px rgb(119, 15, 101);
+    
+}
+
+.name {
+    font-size: 28px;
+    text-align: center;
+    color: white; 
+    
+}
+
+h1{
+    margin-block-start: 0;
+    margin-block-end: 0.5em;
+    
+}
+
+a{
+    color: rgb(116, 99, 99);
+    text-decoration: none;
+    border-radius: 30px;
+    background-color: aliceblue;
+    display: block;
+    max-width: 300px;
+    margin: 20px;
+    padding: 0.55em;
+    margin: 15px auto;
+    
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    padding-inline-start: 0px;
+    
+}
+
